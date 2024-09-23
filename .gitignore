@@ -1,5 +1,9 @@
 # Ignore all files in .config
 .config/
-
+.local/
+.mozzila/
+.cache/
+.gdfuse/
+.vscode/
 # Ignore SSH history files
 .bash_history
