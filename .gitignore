@@ -1,4 +1,5 @@
 # Ignore all files in .config
+.ssh/
 .config/
 .local/
 .mozzila/
