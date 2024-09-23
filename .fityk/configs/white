@@ -1,0 +1,26 @@
+[MainPlot]
+[MainPlot/Colors]
+bg_col=rgb(255, 255, 255)
+model_col=rgb(0, 0, 127)
+xAxis_col=rgb(0, 0, 0)
+[MainPlot/Colors/data]
+0_col=rgb(0, 127, 0)
+[MainPlot/Colors/peak]
+0_col=rgb(255, 89, 89)
+[AuxPlot_0]
+[AuxPlot_0/Colors]
+bg_col=rgb(255, 255, 255)
+active_data_col=rgb(0, 127, 0)
+xAxis_col=rgb(0, 0, 0)
+[AuxPlot_1]
+[AuxPlot_1/Colors]
+bg_col=rgb(255, 255, 255)
+active_data_col=rgb(0, 127, 0)
+xAxis_col=rgb(0, 0, 0)
+[OutputWin]
+[OutputWin/Colors]
+normal_col=rgb(51, 51, 51)
+warn_col=rgb(172, 0, 0)
+quot_col=rgb(46, 58, 107)
+input_col=rgb(0, 76, 9)
+bg_col=rgb(255, 255, 255)
