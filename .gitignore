@@ -1,0 +1,5 @@
+# Ignore all files in .config
+.config/
+
+# Ignore SSH history files
+.bash_history
